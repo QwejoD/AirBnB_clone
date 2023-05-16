@@ -1,4 +1,4 @@
-# W3C validator for Holberton School
+# W3C validator for ALX software Engineering Program
 
 For HTML and CSS files.
 
